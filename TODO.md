@@ -4,7 +4,7 @@ List Of Modules To Be Completed
 ## Modules to do:
 1. Environment Setup
 2. Eclipse Overview
-3. Logic Building Hour
+3. Logic Building Hour Plan-M1
 4. Java Fundamentals
 5. OOPS/Inheritance
 6. Abstraction/Packages/Exception Handling
