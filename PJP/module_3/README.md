@@ -20,8 +20,6 @@ Total Days: 10
 
 ## Day 3
 1. Prog 1 : Is Even
-	- If Even return 2, else 1
-	- Number can be positive, negative or zero
 2. Prog 2 : Is Odd
 3. Prog 3 : Return Last Digit Of Given Number
 4. Prog 4 : Return Second-Last Digit Of Given Number
