@@ -22,4 +22,3 @@ List Of Modules To Be Completed
 12. Collection
 13. RDBMS/SQL/JDBC
 
-## Modules Completed: 
