@@ -1,6 +1,3 @@
-## Wipro PJP <br/>
-List Of Modules To Be Completed
-
 ## Modules to do:
 1. Environment Setup
 2. Eclipse Overview
@@ -16,5 +13,6 @@ List Of Modules To Be Completed
 12. Collection
 13. RDBMS/SQL/JDBC
 
-## Modules Completed: 
+
+
 
