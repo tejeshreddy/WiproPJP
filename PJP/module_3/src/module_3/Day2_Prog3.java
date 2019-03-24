@@ -1,3 +1,4 @@
+//Accept a number N and print if it's EVEN or ODD
 package module_3;
 
 import java.util.Scanner;

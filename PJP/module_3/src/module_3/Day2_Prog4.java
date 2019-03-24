@@ -1,3 +1,4 @@
+//Accept two numbers and print if the sum of two numbers are ODD or EVEN
 package module_3;
 
 import java.util.Scanner;

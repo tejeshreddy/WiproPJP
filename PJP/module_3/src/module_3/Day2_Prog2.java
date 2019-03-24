@@ -1,3 +1,4 @@
+//Accept two number and print the greatest of the both
 package module_3;
 
 import java.util.Scanner;
