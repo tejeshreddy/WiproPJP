@@ -6,10 +6,10 @@ Total Days: 10
 
 ## Day 2
 #### Conditional Statements
-1. Print if number is positive, negative or zero
-2. Accept two number and print the greatest of the both
-3. Accept a number N and print if it's EVEN or ODD
-4. Accept two numbers and print if the sum of two numbers are ODD or EVEN
+1. ~~Print if number is positive, negative or zero~~
+2. ~~Accept two number and print the greatest of the both~~
+3. ~~Accept a number N and print if it's EVEN or ODD~~
+4. ~~Accept two numbers and print if the sum of two numbers are ODD or EVEN~~
 
 #### Looping Constructs
 5. Write A program to print all numbers from 1 to 100 (1 2 3 4 ..)
