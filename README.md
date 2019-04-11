@@ -10,7 +10,7 @@ List Of Modules To Be Completed
 ## Modules to do:
 1. Environment Setup
 2. Eclipse Overview
-3. Logic Building Hour Plan-M1](https://github.com/tejeshreddy/WiproPJP/tree/master/PJP/module_3) 
+3. [Logic Building Hour Plan-M1](https://github.com/tejeshreddy/WiproPJP/tree/master/PJP/module_3) 
 4. Java Fundamentals
 5. OOPS/Inheritance
 6. Abstraction/Packages/Exception Handling
