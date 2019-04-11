@@ -26,8 +26,6 @@ Total Days: 10
 5. Prog 5 : Sum of Last Digits of 2 Given Numbers
 
 ## Day 4
-1.  
-
 ## Day 5
 ## Day 6
 ## Day 7
@@ -35,3 +33,4 @@ Total Days: 10
 ## Day 9
 ## Day 10
 
+All the days from 3 to 10 have mettl tool based learning
