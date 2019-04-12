@@ -26,7 +26,11 @@ Total Days: 10
 5. Prog 5 : Sum of Last Digits of 2 Given Numbers
 
 ## Day 4
+    Set of 5 problems
+    Status : Complete
 ## Day 5
+    Set of 4 problems
+    Status : Complete 
 ## Day 6
 ## Day 7
 ## Day 8
