@@ -26,24 +26,24 @@ Total Days: 10
 5. Prog 5 : Sum of Last Digits of 2 Given Numbers
 
 ## Day 4
-    Set of 5 problems
-    Status : Complete
+- Set of 5 problems
+- Status : Complete
 ## Day 5
-    Set of 4 problems
-    Status : Complete 
+- Set of 4 problems
+- Status : Complete 
 ## Day 6
-    Set of 5 Problems
-    Status : Complete
+- Set of 5 Problems
+- Status : Complete
 ## Day 7
-    Set of 4 Problems
-    Status : Complete
+- Set of 4 Problems
+- Status : Complete
 ## Day 8
-    Set of 4 Problems
-    Status : Complete
+- Set of 4 Problems
+- Status : Complete
 ## Day 9
-    Set of 4 Problems
-    Status : Complete
+- Set of 4 Problems
+- Status : Complete
 ## Day 10
-    Set of 4 Problems
-    Status : Complete
+- Set of 4 Problems
+- Status : Complete
 All the days from 3 to 10 have mettl tool based learning
