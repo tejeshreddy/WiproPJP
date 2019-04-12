@@ -32,6 +32,8 @@ Total Days: 10
     Set of 4 problems
     Status : Complete 
 ## Day 6
+    Set of 5 Problems
+    Status : Complete
 ## Day 7
 ## Day 8
 ## Day 9
